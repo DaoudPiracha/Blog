@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  What's wierd about Criminals and Calls
+title:  What's weird about Criminal Calls
 date:   2017-08-25 13:32:20 +0300
 description: An overview of my experience analyzing crime records in Pakistan
 img: crime.jpg # Add image post (optional)

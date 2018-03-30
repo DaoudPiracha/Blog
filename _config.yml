@@ -1,4 +1,4 @@
-title: My personal blog - Daoud Piracha
+title: Daoud Piracha
 email: daoud.piracha@mail.mcgill.ca
 description: > # this means to ignore newlines until "baseurl:"
   I solve problems in Data Science and AI.
@@ -9,15 +9,15 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # Author settings
 author: Daoud Piracha # add your name
 author-pic: daoud-face2.jpg
-about-author: Hi there, my name is Daoud Piracha. I study patterns and irrational behaviour. I also like biking, coffee and AI. Currently, I'm building Attention submodules for VGG for ICLR 2018 Reproducibility Challenge.
+about-author: Hi there, my name is Daoud Piracha. I study patterns in data and irrational behaviour in general. I also like biking, coffee and AI. Currently, I am building Attention submodules for VGG for the ICLR 2018 Reproducibility Challenge.
 
 # Contact links
 email: daoud.piracha@mail.mcgill.ca # Add your Email address
-#phone: # Add your Phone number
-#website: # Add your website, do not add http://
-#linkedin: # Add your Linkedin handle
+phone: # Add your Phone number
+website: # Add your website, do not add http://
+linkedin: # Add your Linkedin handle
 github: DaoudPiracha # Add your Github handle
-#twitter:  # Add your Twitter handle
+twitter:  # Add your Twitter handle
 facebook: daoud.piracha # Add your Facebook handle
 instagram: daoud.piracha # Add your Instagram handle
 pinterest: # Add your Pinterest handle
