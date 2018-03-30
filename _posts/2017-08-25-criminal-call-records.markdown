@@ -9,10 +9,12 @@ author: Daoud # Add name author (optional)
 ---
 Last summer, I investigated criminal behaviour in Pakistan using call records and official data. This was interesting since we had to deal with (very) noisy data. We were able to observe some interesting patterns criminals tended to follow:
 
-- Main suspects tended to switch SIMs upto 2/3 in the 72 hours before the crime.
-- Analyzing the network, we found certain individuals with different phone IDs and SIMs but they made the same calls and at the same time.
+- Main suspects tended to switch SIMs upto 2/3 times in the 72 hours before the crime.
+- Analyzing the network, we found certain interesting individuals. *Apparently* dstinct individual were making the exact same calls.
 
- These results were almost instantly visible using simple clustering techniques. This allowed us to reduce the suspect call grpah significantly. It also increase the likelihood wieghts on certain individuals.
+ These pople had different phone IDs and SIMs but they made calls to the same people and at the same time.
+
+ These results were almost instantly visible using simple clustering techniques. This allowed us to reduce the edges and nodes in the suspect call graph significantly. It also increase the likelihood wieghts on certain individuals.
 
 Unfortunately, with the nature of a developing country we couldnt prove observations to high levels of statistical significance. Nonetheless, the inisghts remain critical and may be useful to better utilization of police reosurces and faster suspect isolation in the future.
 

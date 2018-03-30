@@ -8,7 +8,7 @@ tags: [Python, AI]
 author: Daoud # Add name author (optional)
 ---
 
-I made this as part of [COMP 551: Applied Machine Learning][551-home], a (very cool) course I'm taking.
+I made this with Nadeem Ward as part of [COMP 551: Applied Machine Learning][551-home], a (very cool) course I'm taking.
 
 We were tasked to find the largest digit in an image that may contain upto 3 rescaled digits from MNIST. Feel free to read up on the [problem statement][ass4-problem] for more details.
 
