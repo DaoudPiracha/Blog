@@ -7,9 +7,9 @@ img: conversation.jpg # Add image post (optional)
 tags: [AI, Research, Current]
 author: # Add name author (optional)
 ---
-Motivated by the NIPS ConvAI Challenge, this project started at the ImplementAI Hackathon. Fortunately it lived past just a hackathon, this is credited to help and feedback recieved from the Adversarial Group at MILA and the Dialogue Group at RLL, McGill.
+Motivated by the NIPS ConvAI Challenge, this project started at the ImplementAI Hackathon. Fortunately it lived past just a hackathon. This is credited to help and feedback recieved from the Adversarial Group at MILA and the Dialogue Group at RLL, McGill.
 
-The idea is to you an adversarial approach to teach dialogue. We are largely inspired by two papers:
+The idea is to use an adversarial approach to teach dialogue. We are largely inspired by two papers:
 
 - Adversarial Learning for Neural Dialogue Generation(Li et al. 2017) [[arvix]][Neural-dialogue]
 - Generatively Adversarial Networks(Goodfellow et al. 2014) [[arvix]][GANs]
