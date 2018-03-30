@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  What's weird about Criminal Calls
-date:   2017-08-25 13:32:20 +0300
+date:   2017-08-20 13:32:20 +0300
 description: An overview of my experience analyzing crime records in Pakistan
 img: crime.jpg # Add image post (optional)
 tags: [Data Science, Crime, Behaviour, Python]

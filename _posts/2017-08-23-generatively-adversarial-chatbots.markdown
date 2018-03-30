@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Generatively Adversarial ChatBots
-date:   2017-08-24 13:32:20 +0300
+date:   2017-08-23 13:32:20 +0300
 description: Developing more human conversational AI
 img: conversation.jpg # Add image post (optional)
 tags: [AI, Research, Current]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Learning To Pay Attention
-date:   2017-08-23 13:32:20 +0300
+date:   2017-08-24 13:32:20 +0300
 description: Reproducing the ICLR 2018 paper by Jetley et al.
 img: attention.jpg # Add image post (optional)
 tags: [AI, Current]
