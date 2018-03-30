@@ -9,7 +9,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # Author settings
 author: Daoud Piracha # add your name
 author-pic: daoud-face2.jpg
-about-author: Hi, my name is Daoud Piracha. I study patterns in data and irrational behaviour in general. I also like biking, coffee and AI. #Currently, I am building Attention submodules for VGG for the ICLR 2018 Reproducibility Challenge.
+about-author: Hi there, my name is Daoud. I study patterns in data and irrational behaviour in general. I also like biking, coffee and AI. #Currently, I am building Attention submodules for VGG for the ICLR 2018 Reproducibility Challenge.
 
 # Contact links
 email: daoud.piracha@mail.mcgill.ca # Add your Email address
