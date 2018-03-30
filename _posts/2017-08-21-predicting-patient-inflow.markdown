@@ -8,7 +8,7 @@ img: healthcare2.jpg # Add image post (optional)
 tags: [AI, Time Series, Internship]
 author: Daoud # Add name author (optional)
 ---
-I worked on this time series problem while interning with the wonderful team over at [Addo AI][addo-home]. Over 6 weeks we analysed the data and tried a number of modelling techniques.
+This was a time series problem I worked on while interning with the wonderful team over at [Addo AI][addo-home]. Over 6 weeks we analysed the data from a Chicago hospital and tried a number of modelling techniques to effectively predict inflow.
 
 I was involved heavily in preprocessing. Splitting trend and seasonality, shuffling data and monitoring lags made substantial effects on output. We used statistical modelling, Bayesian and M-ARIMA, initially. I implemented my own model, using LSTM and RNNs, which was comparable. For deployment, we used an ensemble model based on ward specific meta-learning.
 

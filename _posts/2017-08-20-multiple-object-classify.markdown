@@ -30,11 +30,11 @@ Some of the things we tried:
 #### CNNs
 We modified the vanilla architecture on models that worked on MNIST. We noticed digits were thicker and, as a result of rescaling, edges were blurry and larger. Hence we played with kernel size to significantly boost results.
 
-#### Transfer Learning
-We trained on MNIST and froze lower level feature generating layers and retrained on our data. We trued a number of approaches, choosing which layers to freeze. We got the best results with the first layer unfrozen and the rest of the convoltional layers frozen. This gave comparable performance. We believe it mostly benefitted the ensemble approach.
-
 #### CNN + SVM
 We tried using CNNs for feature generation. We simply removed the last layer and fed to an SVM instead. We got interesting results here as well.
+
+#### Transfer Learning
+We trained on MNIST and froze lower level feature generating layers and retrained on our data. We trued a number of approaches, choosing which layers to freeze. We got the best results with the first layer unfrozen and the rest of the convoltional layers frozen. This gave comparable performance. We believe it mostly benefitted the ensemble approach.
 
 #### Ensemble 
 
