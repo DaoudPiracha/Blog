@@ -1,0 +1,19 @@
+---
+layout: post
+title:  What's wierd about Criminals and Calls
+date:   2017-08-25 13:32:20 +0300
+description: An overview of my experience analyzing crime records in Pakistan
+img: crime.jpg # Add image post (optional)
+tags: [Data Science, Crime, Behaviour, Python]
+author: Daoud # Add name author (optional)
+---
+Last summer, I investigated criminal behaviour in Pakistan using call records and official data. This was interesting since we had to deal with (very) noisy data. We were able to observe some interesting patterns criminals tended to follow:
+
+- Main suspects tended to switch SIMs upto 2/3 in the 72 hours before the crime.
+- Analyzing the network, we found certain individuals with different phone IDs and SIMs but they made the same calls and at the same time.
+
+ These results were almost instantly visible using simple clustering techniques. This allowed us to reduce the suspect call grpah significantly. It also increase the likelihood wieghts on certain individuals.
+
+Unfortunately, with the nature of a developing country we couldnt prove observations to high levels of statistical significance. Nonetheless, the inisghts remain critical and may be useful to better utilization of police reosurces and faster suspect isolation in the future.
+
+I hope to redo this study once we have more data to find significant evidence for the many hypotheses we developed investigating the issue. Here's to a safer world and a safer Pakistan. :)
