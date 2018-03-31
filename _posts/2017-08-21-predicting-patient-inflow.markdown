@@ -4,7 +4,7 @@ title: Predicting Patient Inflow
 date: 2017-08-21 13:32:20 +0300
 description: This project was trying to optimise hospital staffing problem by predicting patient demand
 
-img: healthcare2.jpg # Add image post (optional)
+img: healthcare3.jpg # Add image post (optional)
 tags: [AI, Time Series, Internship]
 author: Daoud # Add name author (optional)
 ---

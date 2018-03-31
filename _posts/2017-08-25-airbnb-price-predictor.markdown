@@ -3,7 +3,7 @@ layout: post
 title:  AirBnB Price Predictor
 date:   2017-08-25 13:32:20 +0300
 description: Given an AirBnB listing this model generates an estimate price
-img: airbnb.jpg # Add image post (optional)
+img: airbnb2.jpg # Add image post (optional)
 tags: [AI, Data Science, Python]
 author: Daoud # Add name author (optional)
 ---
