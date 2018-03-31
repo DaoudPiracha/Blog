@@ -3,7 +3,7 @@ layout: post
 title: Multiple Object Image Classification
 date: 2017-08-26 13:32:20 +0300
 description: A Classifier to find the largest digit in a modified version of MNIST that contains multiple digits.
-img: multi-classifier2.jpg # Add image post (optional)
+img: multi-classifier_opt.jpg # Add image post (optional)
 tags: [Python, AI]
 author: Daoud # Add name author (optional)
 ---
