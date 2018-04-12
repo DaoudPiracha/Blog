@@ -13,7 +13,7 @@ For a brief overview, check out these [slides][google-slides]. We used them for 
 
  The goal of this paprt is to create attention submodules for VGG, a popular image classifictaion algorithm. We will be creating these modules at 3 layers. This will allow us to have attention wieghts that highlight the background, side objects and the main objects seperately.
 
-This is known to increase accuracy for classification. VGG with Attention Submodules gives a **5.23**% and **22.97**% error on CIFAR 10 and CIFAR 100 respectively. For context, [ResNet - 164][resnet], currently one of the top image classifcation models, gives errors of 6.04% and 24.4% respectively on the same datasets.
+This is known to increase accuracy for classification. [VGG with Attention Submodules][paper-pdf] gives a **5.23**% and **22.97**% error on CIFAR 10 and CIFAR 100 respectively. For context, [ResNet - 164][resnet], currently one of the top image classifcation models, gives errors of 6.04% and 24.4% respectively on the same datasets.
 
 
 Here is an illustration of attention maps based on CIFAR 10.
