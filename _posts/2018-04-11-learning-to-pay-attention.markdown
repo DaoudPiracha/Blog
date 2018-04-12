@@ -16,6 +16,9 @@ For a brief overview, check out these [slides][google-slides]. We used them for 
 This is known to increase accuracy for classification. VGG with Attention Submodules gives a **5.23**% and **22.97**% error on CIFAR 10 and CIFAR 100 respectively. For context, [ResNet - 164][resnet], currently one of the top image classifcation models, gives errors of 6.04% and 24.4% respectively on the same datasets.
 
 
+Here is an illustration of attention maps based on CIFAR 10.
+
+
 ![Attention Map]({{ "/assets/img/att3-dp.jpg"}})
 
 In the meanwhile, I am also thinking of cool hacks I can make using this. Immediately though, the attention map, is a quick way to apply images effects to certain pixels with higher attention/focus. I am looking to experiment with an autoblur hack. 
