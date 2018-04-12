@@ -9,13 +9,13 @@ author: Daoud # Add name author (optional)
 ---
 This project means a lot since it won me my first hackathon prize.
 
-My team made a deep learning algorithm that provides a suggested price for potential Airbnb listings in Montreal based on historic prices and Local Logic API data. Local Logic gave ratings for  ratings for amenties, restaurants etc and so was helpful in finding additional location specific features. 
+This was done for the DataDive 2017 Hackathon. We ended up as one of the winnings teams. Here is a [link][devpost] to our submission on Devpost. Also feel free to check out the [code][github] on Github!! 
+
+I made a deep learning algorithm that provides a suggested price for potential Airbnb listings in Montreal based on historic prices and Local Logic API data. Local Logic gave ratings for  ratings for amenties, restaurants etc and so was helpful in finding additional location specific features. 
 
 Overall we were accurate to within $10 on our testing dataset.
 
-This was done for the DataDive 2017 Hackathon. We ended up as one of the winnings teams. Here is a [link][devpost] to our submission on Devpost. Also feel free to check out the [code][github] on Github!! 
-
-Fun Fact: To actually use Local Logic, we had issues with their API call. We ended up calling their widget and scraping the HTML from there for each location. This calls for some serious hacker cred!!
+Fun Fact: To actually use Local Logic, we had issues with their API call. We ended up using their widget and scraping the HTML from there for each location. This calls for some serious hacker cred!!
 
 
 Cover Photo by Adrian Schwarz on Unsplash
