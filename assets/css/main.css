@@ -5,6 +5,12 @@
   margin: 0;
 }
 
+.center-image
+{
+    margin: 0 auto;
+    display: block;
+}
+
 .highlighter-rouge {
   color: #87314e;
   font-weight: 400;

@@ -11,15 +11,15 @@ This is my current project and possibly one of the most exciting ones!! My team 
 
 For a brief overview, check out these [slides][google-slides]. We used them for a 3 minute spotlight presentation. I would also like to share our current [code][colab]. Note: Please set up Google Colab to view.
 
- The goal of this paprt is to create attention submodules for VGG, a popular image classifictaion algorithm. We will be creating these modules at 3 layers. This will allow us to have attention wieghts that highlight the background, side objects and the main objects seperately.
+ The goal of this paper is to create attention submodules for VGG, a popular image classifictaion algorithm. We will be creating these modules at 3 layers. This will allow us to have attention wieghts that highlight the background, side objects and the main objects seperately.
 
-This is known to increase accuracy for classification. [VGG with Attention Submodules][paper-pdf] gives a **5.23**% and **22.97**% error on CIFAR 10 and CIFAR 100 respectively. For context, [ResNet - 164][resnet], currently one of the top image classifcation models, gives errors of 6.04% and 24.4% respectively on the same datasets.
-
-
-Here is an illustration of attention maps based on CIFAR 10.
+Attention submodules are known to increase accuracy for classification. VGG with [Attention Submodules][paper-pdf] gives a **5.23**% and **22.97**% error on CIFAR 10 and CIFAR 100 respectively. For context, [ResNet - 164][resnet], currently one of the top image classifcation models, gives errors of 6.04% and 24.4% respectively on the same datasets.
 
 
-![Attention Map]({{ "/assets/img/att3-dp.jpg"}})
+Here is an illustration of attention maps based on CIFAR 10:
+
+
+![Attention Map]({{ "/assets/img/att3-dp.jpg"}}){: .center-image }
 
 In the meanwhile, I am also thinking of cool hacks I can make using this. Immediately though, the attention map, is a quick way to apply images effects to certain pixels with higher attention/focus. I am looking to experiment with an autoblur hack. 
 
