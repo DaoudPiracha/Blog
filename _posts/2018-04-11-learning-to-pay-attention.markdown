@@ -19,7 +19,7 @@ Attention submodules are known to increase accuracy for classification. VGG with
 Here is an illustration of attention maps based on CIFAR 10:
 
 
-![Attention Map]({{ "/assets/img/att3-dp.jpg"}}){: .center-image }
+![Attention Map]({{ "/assets/img/att3-dp.jpg"}})
 
 In the meanwhile, I am also thinking of cool hacks I can make using this. Immediately though, the attention map, is a quick way to apply images effects to certain pixels with higher attention/focus. I am looking to experiment with an autoblur hack. 
 
